@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cardapio>
+    <prato id="P01">
+        <nome>Vagalume</nome>
+        <descricao>Comida só da boa</descricao>
+        <ingredientes> Coisas boas</ingredientes>
+        <preco>20,99</preco>
+        <calorias>600kcal</calorias>
+        <tempopreparo>60 minutos</tempopreparo>
+    </prato>
+    <prato id="P02">
+        <nome>Pastel de frango</nome>
+        <descricao>Pastel de frango com queijo</descricao>
+        <ingredientes> Queijo, frango, massa de pastel</ingredientes>
+        <preco>2,99</preco>
+        <calorias>6kcal</calorias>
+        <tempopreparo>30 minutos</tempopreparo>
+    </prato>
+</cardapio>
