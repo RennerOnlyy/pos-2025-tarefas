@@ -1,19 +1,44 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE cardapio SYSTEM "definicoes.dtd">
 <cardapio>
-    <prato id="P01">
-        <nome>Vagalume</nome>
-        <descricao>Comida só da boa</descricao>
-        <ingredientes> Coisas boas</ingredientes>
-        <preco>20,99</preco>
-        <calorias>600kcal</calorias>
-        <tempopreparo>60 minutos</tempopreparo>
-    </prato>
-    <prato id="P02">
-        <nome>Pastel de frango</nome>
-        <descricao>Pastel de frango com queijo</descricao>
-        <ingredientes> Queijo, frango, massa de pastel</ingredientes>
-        <preco>2,99</preco>
-        <calorias>6kcal</calorias>
-        <tempopreparo>30 minutos</tempopreparo>
-    </prato>
+    <item id="Prato_1">
+        <nome>Filé Mignon ao Molho Madeira</nome>
+        <descricao>Filé mignon grelhado com molho madeira, acompanhado de arroz branco e batatas souté.</descricao>
+        <ingredientes>Filé mignon, vinho madeira, cebola, manteiga, arroz, batata, sal, pimenta</ingredientes>
+        <preco>68.90</preco>
+        <calorias>750</calorias>
+        <tempo_preparo>35</tempo_preparo>
+    </item>
+    <item id="Prato_2">
+        <nome>Risoto de Camarão</nome>
+        <descricao>Risoto cremoso com camarões salteados, toque de limão siciliano e parmesão.</descricao>
+        <ingredientes>Arroz arbório, camarão, limão siciliano, parmesão, vinho branco, creme de leite</ingredientes>
+        <preco>59.50</preco>
+        <calorias>680</calorias>
+        <tempo_preparo>30</tempo_preparo>
+    </item>
+    <item id="Prato_3">
+        <nome>Pizza Margherita</nome>
+        <descricao>Clássica pizza italiana com molho de tomate, muçarela de búfala e manjericão fresco.</descricao>
+        <ingredientes>Farinha, fermento, água, molho de tomate, muçarela de búfala, manjericão</ingredientes>
+        <preco>42.00</preco>
+        <calorias>890</calorias>
+        <tempo_preparo>25</tempo_preparo>
+    </item>
+    <item id="Prato_4">
+        <nome>Salada Caesar</nome>
+        <descricao>Salada com alface romana, frango grelhado, croutons, parmesão e molho Caesar.</descricao>
+        <ingredientes>Alface romana, frango, croutons, parmesão, molho caesar</ingredientes>
+        <preco>34.90</preco>
+        <calorias>420</calorias>
+        <tempo_preparo>15</tempo_preparo>
+    </item>
+    <item id="Prato_5">
+        <nome>Spaghetti à Carbonara</nome>
+        <descricao>Espaguete ao molho carbonara com pancetta crocante e queijo pecorino.</descricao>
+        <ingredientes>Espaguete, ovos, pancetta, queijo pecorino, pimenta-do-reino</ingredientes>
+        <preco>47.80</preco>
+        <calorias>760</calorias>
+        <tempo_preparo>20</tempo_preparo>
+    </item>
 </cardapio>
